@@ -1,0 +1,40 @@
+<svg width="1440" height="1024" viewBox="0 0 1440 1024" xmlns="http://www.w3.org/2000/svg">
+<defs>
+  <style>
+    .bg { fill: #f8fafc; }
+    .sidebar { fill: #111827; }
+    .panel { fill: #ffffff; stroke: #e5e7eb; stroke-width: 1.5; }
+    .soft { fill: #f9fafb; stroke: #e5e7eb; stroke-width: 1.5; }
+    .green { fill: #10b981; }
+    .green-soft { fill: #ecfdf5; stroke: #a7f3d0; stroke-width: 1.5; }
+    .purple-soft { fill: #f5f3ff; stroke: #ddd6fe; stroke-width: 1.5; }
+    .red-soft { fill: #fef2f2; stroke: #fecaca; stroke-width: 1.5; }
+    .yellow-soft { fill: #fffbeb; stroke: #fde68a; stroke-width: 1.5; }
+    .text { font-family: Inter, Arial, sans-serif; fill: #111827; }
+    .muted { font-family: Inter, Arial, sans-serif; fill: #6b7280; }
+    .white { font-family: Inter, Arial, sans-serif; fill: #ffffff; }
+    .small { font-size: 18px; }
+    .body { font-size: 22px; }
+    .title { font-size: 42px; font-weight: 800; }
+    .h2 { font-size: 28px; font-weight: 750; }
+    .h3 { font-size: 22px; font-weight: 750; }
+    .label { font-size: 15px; font-weight: 800; letter-spacing: 2px; }
+    .badge { font-size: 17px; font-weight: 800; }
+  </style>
+</defs>
+<rect x="0" y="0" width="1440" height="1024" rx="0" class="bg"/>
+<rect x="480" y="130" width="480" height="690" rx="28" class="panel"/>
+<rect x="650" y="180" width="72" height="72" rx="18" class="green"/>
+<text x="686" y="226" class="white h2" text-anchor="middle">FI</text>
+<text x="720" y="315" class="text title" text-anchor="middle">Login by sales category</text>
+<text x="720" y="358" class="muted small" text-anchor="middle">The workspace becomes specific to what the salesperson sells.</text>
+<text x="540" y="425" class="muted label" text-anchor="start">USERNAME</text>
+<rect x="540" y="448" width="360" height="58" rx="12" class="soft"/>
+<text x="562" y="485" class="text small" text-anchor="start">packaging.rep@foodintel.ai</text>
+<text x="540" y="545" class="muted label" text-anchor="start">PASSWORD</text>
+<rect x="540" y="568" width="360" height="58" rx="12" class="soft"/>
+<text x="562" y="605" class="text small" text-anchor="start">packaging123</text>
+<rect x="540" y="668" width="360" height="62" rx="14" class="green"/>
+<text x="720" y="708" class="white h3" text-anchor="middle">Login</text>
+<rect x="540" y="760" width="360" height="1" rx="0" class="soft"/>
+<text x="720" y="790" class="muted small" text-anchor="middle">Demo categories: Packaging, Ingredients, Beverages</text></svg>

@@ -1,0 +1,106 @@
+<svg width="1440" height="1024" viewBox="0 0 1440 1024" xmlns="http://www.w3.org/2000/svg">
+
+<defs>
+  <style>
+    .bg { fill: #f8fafc; }
+    .sidebar { fill: #111827; }
+    .panel { fill: #ffffff; stroke: #e5e7eb; stroke-width: 1.5; }
+    .soft { fill: #f9fafb; stroke: #e5e7eb; stroke-width: 1.5; }
+    .green { fill: #10b981; }
+    .green-soft { fill: #ecfdf5; stroke: #a7f3d0; stroke-width: 1.5; }
+    .purple-soft { fill: #f5f3ff; stroke: #ddd6fe; stroke-width: 1.5; }
+    .red-soft { fill: #fef2f2; stroke: #fecaca; stroke-width: 1.5; }
+    .yellow-soft { fill: #fffbeb; stroke: #fde68a; stroke-width: 1.5; }
+    .text { font-family: Inter, Arial, sans-serif; fill: #111827; }
+    .muted { font-family: Inter, Arial, sans-serif; fill: #6b7280; }
+    .white { font-family: Inter, Arial, sans-serif; fill: #ffffff; }
+    .small { font-size: 18px; }
+    .body { font-size: 22px; }
+    .title { font-size: 42px; font-weight: 800; }
+    .h2 { font-size: 28px; font-weight: 750; }
+    .h3 { font-size: 22px; font-weight: 750; }
+    .label { font-size: 15px; font-weight: 800; letter-spacing: 2px; }
+    .badge { font-size: 17px; font-weight: 800; }
+  </style>
+</defs>
+
+<rect x="0" y="0" width="1440" height="1024" rx="0" class="bg"/>
+<rect x="0" y="0" width="300" height="1024" rx="0" class="sidebar"/>
+<rect x="38" y="48" width="62" height="62" rx="16" class="green"/>
+<text x="69" y="88" class="white h3" text-anchor="middle">FI</text>
+<text x="122" y="73" class="white h3" text-anchor="start">FoodIntel AI</text>
+<text x="122" y="103" class="white small" text-anchor="start">Sales intelligence OS</text>
+<rect x="38" y="148" width="224" height="112" rx="16" class="purple-soft"/>
+<text x="58" y="184" class="muted label" text-anchor="start">LOGGED-IN CATEGORY</text>
+<text x="58" y="218" class="text h3" text-anchor="start">Packaging</text>
+<text x="58" y="244" class="muted small" text-anchor="start">FreshPack Solutions</text>
+<text x="38" y="315" class="muted label" text-anchor="start">AREA</text>
+<rect x="38" y="334" width="224" height="52" rx="12" class="soft"/>
+<text x="58" y="368" class="text small" text-anchor="start">A.S. Rao Nagar</text>
+<text x="38" y="435" class="muted label" text-anchor="start">ACTIVE PROSPECT</text>
+<rect x="38" y="454" width="224" height="52" rx="12" class="soft"/>
+<text x="58" y="488" class="text small" text-anchor="start">Hapyningz Cafe</text>
+<rect x="38" y="555" width="224" height="48" rx="12" class="sidebar"/>
+<text x="62" y="586" class="white small" text-anchor="start">Command Center</text>
+<rect x="38" y="617" width="224" height="48" rx="12" class="sidebar"/>
+<text x="62" y="648" class="white small" text-anchor="start">Prospect Brief</text>
+<rect x="38" y="679" width="224" height="48" rx="12" class="sidebar"/>
+<text x="62" y="710" class="white small" text-anchor="start">Opportunity Radar</text>
+<rect x="38" y="741" width="224" height="48" rx="12" class="sidebar"/>
+<text x="62" y="772" class="white small" text-anchor="start">CRM Timeline</text>
+<rect x="38" y="803" width="224" height="48" rx="12" class="sidebar"/>
+<text x="62" y="834" class="white small" text-anchor="start">Follow-up Studio</text>
+<rect x="38" y="865" width="224" height="48" rx="12" class="sidebar"/>
+<text x="62" y="896" class="white small" text-anchor="start">AI Copilot</text>
+<rect x="340" y="42" width="198" height="94" rx="16" class="panel"/>
+<text x="362" y="78" class="muted label" text-anchor="start">SELLER</text>
+<text x="362" y="112" class="text small" text-anchor="start">FreshPack Solutions</text>
+<rect x="554" y="42" width="198" height="94" rx="16" class="panel"/>
+<text x="576" y="78" class="muted label" text-anchor="start">CATEGORY</text>
+<text x="576" y="112" class="text small" text-anchor="start">Packaging</text>
+<rect x="768" y="42" width="198" height="94" rx="16" class="panel"/>
+<text x="790" y="78" class="muted label" text-anchor="start">PROSPECT</text>
+<text x="790" y="112" class="text small" text-anchor="start">Hapyningz Cafe</text>
+<rect x="982" y="42" width="198" height="94" rx="16" class="panel"/>
+<text x="1004" y="78" class="muted label" text-anchor="start">MEETING</text>
+<text x="1004" y="112" class="text small" text-anchor="start">Today 3:00 PM</text>
+<rect x="1196" y="42" width="198" height="94" rx="16" class="panel"/>
+<text x="1218" y="78" class="muted label" text-anchor="start">PRODUCT FOCUS</text>
+<text x="1218" y="112" class="text small" text-anchor="start">Leak-proof packaging</text>
+<text x="340" y="210" class="text title" text-anchor="start">AI Workflow</text>
+<text x="340" y="250" class="muted body" text-anchor="start">8-layer architecture and multi-agent sales intelligence pipeline.</text>
+<rect x="340" y="300" width="475" height="585" rx="20" class="panel"/>
+<text x="372" y="350" class="text h2" text-anchor="start">Architecture layers</text>
+<rect x="875" y="300" width="485" height="585" rx="20" class="panel"/>
+<text x="907" y="350" class="text h2" text-anchor="start">Agent pipeline</text>
+<rect x="372" y="390" width="390" height="42" rx="10" class="soft"/>
+<text x="390" y="418" class="text small" text-anchor="start">1. Data Layer</text>
+<rect x="372" y="446" width="390" height="42" rx="10" class="soft"/>
+<text x="390" y="474" class="text small" text-anchor="start">2. Context Layer</text>
+<rect x="372" y="502" width="390" height="42" rx="10" class="soft"/>
+<text x="390" y="530" class="text small" text-anchor="start">3. Signal Orchestration</text>
+<rect x="372" y="558" width="390" height="42" rx="10" class="soft"/>
+<text x="390" y="586" class="text small" text-anchor="start">4. AI Intelligence</text>
+<rect x="372" y="614" width="390" height="42" rx="10" class="soft"/>
+<text x="390" y="642" class="text small" text-anchor="start">5. Memory Layer</text>
+<rect x="372" y="670" width="390" height="42" rx="10" class="soft"/>
+<text x="390" y="698" class="text small" text-anchor="start">6. Trust Layer</text>
+<rect x="372" y="726" width="390" height="42" rx="10" class="soft"/>
+<text x="390" y="754" class="text small" text-anchor="start">7. Workflow Automation</text>
+<rect x="372" y="782" width="390" height="42" rx="10" class="soft"/>
+<text x="390" y="810" class="text small" text-anchor="start">8. Frontend Experience</text>
+<rect x="907" y="390" width="390" height="45" rx="10" class="purple-soft"/>
+<text x="925" y="420" class="text small" text-anchor="start">1. Meeting Detection</text>
+<rect x="907" y="451" width="390" height="45" rx="10" class="purple-soft"/>
+<text x="925" y="481" class="text small" text-anchor="start">2. Research Agent</text>
+<rect x="907" y="512" width="390" height="45" rx="10" class="purple-soft"/>
+<text x="925" y="542" class="text small" text-anchor="start">3. Review Analysis</text>
+<rect x="907" y="573" width="390" height="45" rx="10" class="purple-soft"/>
+<text x="925" y="603" class="text small" text-anchor="start">4. Competitor Intelligence</text>
+<rect x="907" y="634" width="390" height="45" rx="10" class="purple-soft"/>
+<text x="925" y="664" class="text small" text-anchor="start">5. Insight Ranking</text>
+<rect x="907" y="695" width="390" height="45" rx="10" class="purple-soft"/>
+<text x="925" y="725" class="text small" text-anchor="start">6. Sales Strategy</text>
+<rect x="907" y="756" width="390" height="45" rx="10" class="purple-soft"/>
+<text x="925" y="786" class="text small" text-anchor="start">7. Follow-up Agent</text>
+</svg>

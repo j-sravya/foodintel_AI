@@ -1,0 +1,114 @@
+<svg width="1440" height="1024" viewBox="0 0 1440 1024" xmlns="http://www.w3.org/2000/svg">
+
+<defs>
+  <style>
+    .bg { fill: #f8fafc; }
+    .sidebar { fill: #111827; }
+    .panel { fill: #ffffff; stroke: #e5e7eb; stroke-width: 1.5; }
+    .soft { fill: #f9fafb; stroke: #e5e7eb; stroke-width: 1.5; }
+    .green { fill: #10b981; }
+    .green-soft { fill: #ecfdf5; stroke: #a7f3d0; stroke-width: 1.5; }
+    .purple-soft { fill: #f5f3ff; stroke: #ddd6fe; stroke-width: 1.5; }
+    .red-soft { fill: #fef2f2; stroke: #fecaca; stroke-width: 1.5; }
+    .yellow-soft { fill: #fffbeb; stroke: #fde68a; stroke-width: 1.5; }
+    .text { font-family: Inter, Arial, sans-serif; fill: #111827; }
+    .muted { font-family: Inter, Arial, sans-serif; fill: #6b7280; }
+    .white { font-family: Inter, Arial, sans-serif; fill: #ffffff; }
+    .small { font-size: 18px; }
+    .body { font-size: 22px; }
+    .title { font-size: 42px; font-weight: 800; }
+    .h2 { font-size: 28px; font-weight: 750; }
+    .h3 { font-size: 22px; font-weight: 750; }
+    .label { font-size: 15px; font-weight: 800; letter-spacing: 2px; }
+    .badge { font-size: 17px; font-weight: 800; }
+  </style>
+</defs>
+
+<rect x="0" y="0" width="1440" height="1024" rx="0" class="bg"/>
+<rect x="0" y="0" width="300" height="1024" rx="0" class="sidebar"/>
+<rect x="38" y="48" width="62" height="62" rx="16" class="green"/>
+<text x="69" y="88" class="white h3" text-anchor="middle">FI</text>
+<text x="122" y="73" class="white h3" text-anchor="start">FoodIntel AI</text>
+<text x="122" y="103" class="white small" text-anchor="start">Sales intelligence OS</text>
+<rect x="38" y="148" width="224" height="112" rx="16" class="purple-soft"/>
+<text x="58" y="184" class="muted label" text-anchor="start">LOGGED-IN CATEGORY</text>
+<text x="58" y="218" class="text h3" text-anchor="start">Packaging</text>
+<text x="58" y="244" class="muted small" text-anchor="start">FreshPack Solutions</text>
+<text x="38" y="315" class="muted label" text-anchor="start">AREA</text>
+<rect x="38" y="334" width="224" height="52" rx="12" class="soft"/>
+<text x="58" y="368" class="text small" text-anchor="start">A.S. Rao Nagar</text>
+<text x="38" y="435" class="muted label" text-anchor="start">ACTIVE PROSPECT</text>
+<rect x="38" y="454" width="224" height="52" rx="12" class="soft"/>
+<text x="58" y="488" class="text small" text-anchor="start">Hapyningz Cafe</text>
+<rect x="38" y="555" width="224" height="48" rx="12" class="green-soft"/>
+<text x="62" y="586" class="text small" text-anchor="start">Command Center</text>
+<rect x="38" y="617" width="224" height="48" rx="12" class="sidebar"/>
+<text x="62" y="648" class="white small" text-anchor="start">Prospect Brief</text>
+<rect x="38" y="679" width="224" height="48" rx="12" class="sidebar"/>
+<text x="62" y="710" class="white small" text-anchor="start">Opportunity Radar</text>
+<rect x="38" y="741" width="224" height="48" rx="12" class="sidebar"/>
+<text x="62" y="772" class="white small" text-anchor="start">CRM Timeline</text>
+<rect x="38" y="803" width="224" height="48" rx="12" class="sidebar"/>
+<text x="62" y="834" class="white small" text-anchor="start">Follow-up Studio</text>
+<rect x="38" y="865" width="224" height="48" rx="12" class="sidebar"/>
+<text x="62" y="896" class="white small" text-anchor="start">AI Copilot</text>
+<rect x="340" y="42" width="198" height="94" rx="16" class="panel"/>
+<text x="362" y="78" class="muted label" text-anchor="start">SELLER</text>
+<text x="362" y="112" class="text small" text-anchor="start">FreshPack Solutions</text>
+<rect x="554" y="42" width="198" height="94" rx="16" class="panel"/>
+<text x="576" y="78" class="muted label" text-anchor="start">CATEGORY</text>
+<text x="576" y="112" class="text small" text-anchor="start">Packaging</text>
+<rect x="768" y="42" width="198" height="94" rx="16" class="panel"/>
+<text x="790" y="78" class="muted label" text-anchor="start">PROSPECT</text>
+<text x="790" y="112" class="text small" text-anchor="start">Hapyningz Cafe</text>
+<rect x="982" y="42" width="198" height="94" rx="16" class="panel"/>
+<text x="1004" y="78" class="muted label" text-anchor="start">MEETING</text>
+<text x="1004" y="112" class="text small" text-anchor="start">Today 3:00 PM</text>
+<rect x="1196" y="42" width="198" height="94" rx="16" class="panel"/>
+<text x="1218" y="78" class="muted label" text-anchor="start">PRODUCT FOCUS</text>
+<text x="1218" y="112" class="text small" text-anchor="start">Leak-proof packaging</text>
+<text x="340" y="210" class="text title" text-anchor="start">Command Center</text>
+<text x="340" y="250" class="muted body" text-anchor="start">Meeting priority only. Deep intelligence opens in Prospect Brief.</text>
+<rect x="340" y="300" width="240" height="110" rx="18" class="panel"/>
+<text x="360" y="334" class="muted label" text-anchor="start">MANUAL RESEARCH REDUCED</text>
+<text x="360" y="380" class="text h2" text-anchor="start">82%</text>
+<rect x="600" y="300" width="240" height="110" rx="18" class="panel"/>
+<text x="620" y="334" class="muted label" text-anchor="start">RESEARCH TIME SAVED</text>
+<text x="620" y="380" class="text h2" text-anchor="start">4.5 hours</text>
+<rect x="860" y="300" width="240" height="110" rx="18" class="panel"/>
+<text x="880" y="334" class="muted label" text-anchor="start">BRIEFS GENERATED</text>
+<text x="880" y="380" class="text h2" text-anchor="start">12</text>
+<rect x="1120" y="300" width="240" height="110" rx="18" class="panel"/>
+<text x="1140" y="334" class="muted label" text-anchor="start">MEETING PREP SPEED</text>
+<text x="1140" y="380" class="text h2" text-anchor="start">5x faster</text>
+<rect x="340" y="460" width="620" height="430" rx="20" class="panel"/>
+<text x="375" y="510" class="text h2" text-anchor="start">Today’s meetings</text>
+<rect x="375" y="550" width="550" height="66" rx="12" class="soft"/>
+<text x="400" y="578" class="text h3" text-anchor="start">Hapyningz Cafe & Kitchen</text>
+<text x="400" y="604" class="muted small" text-anchor="start">A.S. Rao Nagar · 10:30 AM</text>
+<text x="765" y="592" class="text small" text-anchor="start">HIGH</text>
+<text x="850" y="592" class="text h3" text-anchor="start">88/100</text>
+<rect x="375" y="632" width="550" height="66" rx="12" class="soft"/>
+<text x="400" y="660" class="text h3" text-anchor="start">Pista House A.S. Rao Nagar</text>
+<text x="400" y="686" class="muted small" text-anchor="start">A.S. Rao Nagar · 11:30 AM</text>
+<text x="765" y="674" class="text small" text-anchor="start">MEDIUM</text>
+<text x="850" y="674" class="text h3" text-anchor="start">81/100</text>
+<rect x="375" y="714" width="550" height="66" rx="12" class="soft"/>
+<text x="400" y="742" class="text h3" text-anchor="start">Coco Cafe</text>
+<text x="400" y="768" class="muted small" text-anchor="start">A.S. Rao Nagar · 12:30 PM</text>
+<text x="765" y="756" class="text small" text-anchor="start">HIGH</text>
+<text x="850" y="756" class="text h3" text-anchor="start">95/100</text>
+<rect x="375" y="796" width="550" height="66" rx="12" class="soft"/>
+<text x="400" y="824" class="text h3" text-anchor="start">Just Bake A.S. Rao Nagar</text>
+<text x="400" y="850" class="muted small" text-anchor="start">A.S. Rao Nagar · 02:30 PM</text>
+<text x="765" y="838" class="text small" text-anchor="start">HIGH</text>
+<text x="850" y="838" class="text h3" text-anchor="start">93/100</text>
+<rect x="1000" y="460" width="360" height="430" rx="20" class="panel"/>
+<text x="1030" y="510" class="text h2" text-anchor="start">Smart alerts</text>
+<rect x="1030" y="548" width="300" height="130" rx="14" class="yellow-soft"/>
+<text x="1050" y="585" class="text h3" text-anchor="start">Leak-proof opportunity cluster</text>
+<text x="1050" y="620" class="muted small" text-anchor="start">High-fit prospects are concentrated across Hyderabad areas.</text>
+<rect x="1030" y="708" width="300" height="130" rx="14" class="yellow-soft"/>
+<text x="1050" y="745" class="text h3" text-anchor="start">Competitor verification needed</text>
+<text x="1050" y="780" class="muted small" text-anchor="start">Ask if account buys from UFlex or local suppliers.</text>
+</svg>

@@ -1,0 +1,1342 @@
+[
+  {
+    "company": "Jubilant FoodWorks - Domino's India",
+    "country": "India",
+    "hq_city": "Noida",
+    "industry": "QSR pizza and emerging food-service brands",
+    "account_owner": "Aisha Mehta",
+    "meeting_type": "Enterprise expansion discovery",
+    "target_regions": [
+      "Delhi NCR",
+      "Maharashtra",
+      "Karnataka",
+      "Telangana"
+    ],
+    "primary_channels": [
+      "Delivery",
+      "Dine-in",
+      "Own app",
+      "Swiggy",
+      "Zomato"
+    ],
+    "india_market_notes": "Large India QSR operator with Domino's as the anchor brand and strong delivery-led demand.",
+    "data_basis": "Real public company/brand context with FY25 revenue reference; outlet sales, stock, and menu signals are simulated for demo.",
+    "public_sources": [
+      {
+        "name": "Official annual reports page",
+        "url": "https://www.jubilantfoodworks.com/company-reports/annual-reports",
+        "type": "Official company source"
+      },
+      {
+        "name": "Integrated Annual Report FY2024-25 PDF",
+        "url": "https://www.jubilantfoodworks.com/Uploads/Files/245akm-IntegratedAnnualReportForFY2024-25.pdf",
+        "type": "Official company source"
+      },
+      {
+        "name": "Official company profile",
+        "url": "https://www.jubilantfoodworks.com/about-us/company-profile",
+        "type": "Official company source"
+      },
+      {
+        "name": "Official financial information page",
+        "url": "https://www.jubilantfoodworks.com/investors-financial-information",
+        "type": "Official company source"
+      },
+      {
+        "name": "Official franchise information page",
+        "url": "https://www.jubilantfoodworks.com/franchise-information",
+        "type": "Official company source"
+      }
+    ],
+    "revenue_inr_cr": 8142,
+    "revenue_growth_pct": 44.0,
+    "gross_margin_pct": 38.0,
+    "operating_margin_pct": 8.7,
+    "cash_inr_cr": 620,
+    "debt_inr_cr": 1450,
+    "market_momentum": "Delivery recovery, store expansion, and larger multi-brand platform",
+    "news": [
+      {
+        "date": "Source-backed public signal",
+        "headline": "Official FY2024-25 annual report is available from Jubilant FoodWorks",
+        "signal": "The annual report and investor pages can support source-backed meeting prep around financials, brand portfolio, and operating context.",
+        "source_name": "Official annual reports page",
+        "source_url": "https://www.jubilantfoodworks.com/company-reports/annual-reports",
+        "verification": "Verified official/relevant source"
+      },
+      {
+        "date": "Source-backed public signal",
+        "headline": "Jubilant identifies itself as a leading food-service company with Domino's, Popeyes, Dunkin' and own brands",
+        "signal": "This supports a multi-brand account conversation rather than a generic pizza-only pitch.",
+        "source_name": "Official company profile",
+        "source_url": "https://www.jubilantfoodworks.com/about-us/company-profile",
+        "verification": "Verified official/relevant source"
+      },
+      {
+        "date": "Source-backed public signal",
+        "headline": "Jubilant states it holds Domino's master franchise rights in India and nearby markets",
+        "signal": "This proves the account relevance for Domino's India sales preparation.",
+        "source_name": "Official franchise information page",
+        "source_url": "https://www.jubilantfoodworks.com/franchise-information",
+        "verification": "Verified official/relevant source"
+      }
+    ],
+    "social": [
+      {
+        "platform": "Official investor page",
+        "post": "Financial results, presentations, calls and press releases are available for rep research.",
+        "sentiment": "Verified official source",
+        "engagement": 100,
+        "source_url": "https://www.jubilantfoodworks.com/investors-financial-information",
+        "verification": "Verified official source"
+      },
+      {
+        "platform": "Official company profile",
+        "post": "Public store/network and brand portfolio context can be used before a meeting.",
+        "sentiment": "Verified official source",
+        "engagement": 100,
+        "source_url": "https://www.jubilantfoodworks.com/about-us/company-profile",
+        "verification": "Verified official source"
+      },
+      {
+        "platform": "Official annual report",
+        "post": "Detailed public disclosures can be used as evidence in the brief.",
+        "sentiment": "Verified official source",
+        "engagement": 100,
+        "source_url": "https://www.jubilantfoodworks.com/Uploads/Files/245akm-IntegratedAnnualReportForFY2024-25.pdf",
+        "verification": "Verified official source"
+      }
+    ],
+    "products_to_position": [
+      "Delivery channel intelligence",
+      "Store expansion meeting brief",
+      "Promotion and menu signal monitoring"
+    ],
+    "operational_signals": {
+      "sales_trend": [
+        {
+          "period": "W-3",
+          "revenue_lakhs": 42.5,
+          "orders": 4100
+        },
+        {
+          "period": "W-2",
+          "revenue_lakhs": 45.8,
+          "orders": 4380
+        },
+        {
+          "period": "W-1",
+          "revenue_lakhs": 47.2,
+          "orders": 4525
+        },
+        {
+          "period": "Current",
+          "revenue_lakhs": 50.4,
+          "orders": 4860
+        }
+      ],
+      "inventory_risks": [
+        {
+          "item": "Cheese blend",
+          "outlet": "Demo NCR delivery cluster",
+          "hours_left": 2.4,
+          "severity": "High"
+        },
+        {
+          "item": "Pizza boxes",
+          "outlet": "Demo Bengaluru delivery cluster",
+          "hours_left": 3.1,
+          "severity": "High"
+        },
+        {
+          "item": "Garlic bread base",
+          "outlet": "Demo Mumbai cluster",
+          "hours_left": 6.2,
+          "severity": "Medium"
+        }
+      ],
+      "menu_performance": [
+        {
+          "item": "Value Pizza Combo",
+          "sales": 920,
+          "margin_pct": 34
+        },
+        {
+          "item": "Chicken Pizza Range",
+          "sales": 680,
+          "margin_pct": 37
+        },
+        {
+          "item": "Garlic Bread Add-on",
+          "sales": 540,
+          "margin_pct": 42
+        }
+      ],
+      "outlet_health": [
+        {
+          "outlet": "Demo NCR delivery cluster",
+          "health_score": 82,
+          "risk": "Low"
+        },
+        {
+          "outlet": "Demo Bengaluru delivery cluster",
+          "health_score": 76,
+          "risk": "Medium"
+        },
+        {
+          "outlet": "Demo Mumbai cluster",
+          "health_score": 79,
+          "risk": "Medium"
+        }
+      ],
+      "forecast": "Simulated demand forecast shows weekend delivery pressure rising 12-15% in metro clusters.",
+      "review_theme": "Representative customer themes: delivery speed, offer transparency, and food temperature.",
+      "competitor_context": "Pizza and delivery-first QSR competition makes channel intelligence and campaign ROI a relevant sales angle."
+    }
+  },
+  {
+    "company": "Westlife Foodworld - McDonald's India West & South",
+    "country": "India",
+    "hq_city": "Mumbai",
+    "industry": "QSR burger and cafe chain operator",
+    "account_owner": "Rohan Shah",
+    "meeting_type": "Digital growth discovery",
+    "target_regions": [
+      "Maharashtra",
+      "Gujarat",
+      "Karnataka",
+      "Tamil Nadu"
+    ],
+    "primary_channels": [
+      "Dine-in",
+      "Drive-thru",
+      "Delivery",
+      "McDelivery",
+      "Swiggy",
+      "Zomato"
+    ],
+    "india_market_notes": "McDonald's operator for West and South India with public emphasis on digital sales and restaurant expansion.",
+    "data_basis": "Real public company/brand context with FY25 revenue reference; outlet sales, stock, and menu signals are simulated for demo.",
+    "public_sources": [
+      {
+        "name": "Official annual reports page",
+        "url": "https://www.westlife.co.in/investors/annual-reports/",
+        "type": "Official company source"
+      },
+      {
+        "name": "Official about page",
+        "url": "https://www.westlife.co.in/about-us/",
+        "type": "Official company source"
+      },
+      {
+        "name": "Official HRPL page",
+        "url": "https://www.westlife.co.in/hrpl/",
+        "type": "Official company source"
+      },
+      {
+        "name": "Official brand extensions page",
+        "url": "https://www.westlife.co.in/brand-extension/",
+        "type": "Official company source"
+      },
+      {
+        "name": "Annual Report 2023-24 PDF",
+        "url": "https://www.westlife.co.in/wp-content/uploads/2024/09/WFL-Notice-and-Annual-Report-2024.pdf",
+        "type": "Official company source"
+      }
+    ],
+    "revenue_inr_cr": 2491,
+    "revenue_growth_pct": 4.2,
+    "gross_margin_pct": 69.0,
+    "operating_margin_pct": 7.9,
+    "cash_inr_cr": 210,
+    "debt_inr_cr": 520,
+    "market_momentum": "Stable restaurant network growth with digital and convenience channels",
+    "news": [
+      {
+        "date": "Source-backed public signal",
+        "headline": "Westlife publishes annual reports on its official investor page",
+        "signal": "This gives the rep a source-backed financial research starting point.",
+        "source_name": "Official annual reports page",
+        "source_url": "https://www.westlife.co.in/investors/annual-reports/",
+        "verification": "Verified official/relevant source"
+      },
+      {
+        "date": "Source-backed public signal",
+        "headline": "Westlife states it operates McDonald's restaurants in West and South India through HRPL",
+        "signal": "This proves the account scope and region focus for McDonald's India West and South.",
+        "source_name": "Official about page",
+        "source_url": "https://www.westlife.co.in/about-us/",
+        "verification": "Verified official/relevant source"
+      },
+      {
+        "date": "Source-backed public signal",
+        "headline": "HRPL page explains restaurant formats, master franchise relationship and operating model",
+        "signal": "This supports a meeting angle around outlet formats, convenience channels and operating consistency.",
+        "source_name": "Official HRPL page",
+        "source_url": "https://www.westlife.co.in/hrpl/",
+        "verification": "Verified official/relevant source"
+      }
+    ],
+    "social": [
+      {
+        "platform": "Official website",
+        "post": "Company states its McDonald's West and South India operating scope.",
+        "sentiment": "Verified official source",
+        "engagement": 100,
+        "source_url": "https://www.westlife.co.in/about-us/",
+        "verification": "Verified official source"
+      },
+      {
+        "platform": "Official HRPL page",
+        "post": "Restaurant-format and operating model information is available publicly.",
+        "sentiment": "Verified official source",
+        "engagement": 100,
+        "source_url": "https://www.westlife.co.in/hrpl/",
+        "verification": "Verified official source"
+      },
+      {
+        "platform": "Official brand extensions page",
+        "post": "McCafe, McDelivery and related channel information support sales-prep context.",
+        "sentiment": "Verified official source",
+        "engagement": 100,
+        "source_url": "https://www.westlife.co.in/brand-extension/",
+        "verification": "Verified official source"
+      }
+    ],
+    "products_to_position": [
+      "Digital channel meeting brief",
+      "Outlet consistency signals",
+      "Peak-hour demand intelligence"
+    ],
+    "operational_signals": {
+      "sales_trend": [
+        {
+          "period": "W-3",
+          "revenue_lakhs": 36.1,
+          "orders": 2960
+        },
+        {
+          "period": "W-2",
+          "revenue_lakhs": 36.8,
+          "orders": 3015
+        },
+        {
+          "period": "W-1",
+          "revenue_lakhs": 37.4,
+          "orders": 3090
+        },
+        {
+          "period": "Current",
+          "revenue_lakhs": 39.2,
+          "orders": 3225
+        }
+      ],
+      "inventory_risks": [
+        {
+          "item": "Burger buns",
+          "outlet": "Demo Mumbai high-street cluster",
+          "hours_left": 3.0,
+          "severity": "High"
+        },
+        {
+          "item": "McCafe cups",
+          "outlet": "Demo Bengaluru mall cluster",
+          "hours_left": 5.2,
+          "severity": "Medium"
+        },
+        {
+          "item": "Fries packaging",
+          "outlet": "Demo Pune cluster",
+          "hours_left": 4.4,
+          "severity": "Medium"
+        }
+      ],
+      "menu_performance": [
+        {
+          "item": "Burger Meal",
+          "sales": 760,
+          "margin_pct": 36
+        },
+        {
+          "item": "McCafe Beverage",
+          "sales": 430,
+          "margin_pct": 45
+        },
+        {
+          "item": "Fries Add-on",
+          "sales": 610,
+          "margin_pct": 41
+        }
+      ],
+      "outlet_health": [
+        {
+          "outlet": "Demo Mumbai high-street cluster",
+          "health_score": 80,
+          "risk": "Low"
+        },
+        {
+          "outlet": "Demo Bengaluru mall cluster",
+          "health_score": 73,
+          "risk": "Medium"
+        },
+        {
+          "outlet": "Demo Pune cluster",
+          "health_score": 77,
+          "risk": "Medium"
+        }
+      ],
+      "forecast": "Simulated forecast shows dine-in recovery but delivery peaks still drive fulfilment pressure.",
+      "review_theme": "Representative themes: queue time, beverage availability, and delivery packaging consistency.",
+      "competitor_context": "Burger QSR competition and cafe adjacencies make digital conversion and outlet consistency a relevant angle."
+    }
+  },
+  {
+    "company": "Devyani International - KFC, Pizza Hut, Costa Coffee",
+    "country": "India",
+    "hq_city": "Gurugram",
+    "industry": "Multi-brand QSR franchise operator",
+    "account_owner": "Neha Rao",
+    "meeting_type": "Multi-brand account discovery",
+    "target_regions": [
+      "Delhi NCR",
+      "Uttar Pradesh",
+      "Maharashtra",
+      "Karnataka"
+    ],
+    "primary_channels": [
+      "Dine-in",
+      "Delivery",
+      "Swiggy",
+      "Zomato",
+      "Costa retail stores"
+    ],
+    "india_market_notes": "Large multi-brand operator with KFC, Pizza Hut and Costa Coffee exposure across India and adjacent international markets.",
+    "data_basis": "Real public company/brand context with FY25 revenue reference; outlet sales, stock, and menu signals are simulated for demo.",
+    "public_sources": [
+      {
+        "name": "Official corporate website",
+        "url": "https://dil-rjcorp.com/",
+        "type": "Official company source"
+      },
+      {
+        "name": "Official corporate profile",
+        "url": "https://dil-rjcorp.com/corporate-profile/",
+        "type": "Official company source"
+      },
+      {
+        "name": "Annual Report 2024-25 PDF",
+        "url": "https://dil-rjcorp.com/wp-content/uploads/2025/07/annual-report-2024-25.pdf",
+        "type": "Official company source"
+      },
+      {
+        "name": "Official Pizza Hut brand page",
+        "url": "https://dil-rjcorp.com/brands-pizzahut/",
+        "type": "Official company source"
+      },
+      {
+        "name": "Official career page",
+        "url": "https://dil-rjcorp.com/career/",
+        "type": "Official company source"
+      }
+    ],
+    "revenue_inr_cr": 4951,
+    "revenue_growth_pct": 39.2,
+    "gross_margin_pct": 63.0,
+    "operating_margin_pct": 6.6,
+    "cash_inr_cr": 390,
+    "debt_inr_cr": 1150,
+    "market_momentum": "Fast store addition with profitability and operating leverage pressure",
+    "news": [
+      {
+        "date": "Source-backed public signal",
+        "headline": "Devyani describes itself as one of India's largest chain QSR operators",
+        "signal": "This validates the account as a high-relevance India QSR target.",
+        "source_name": "Official corporate website",
+        "source_url": "https://dil-rjcorp.com/",
+        "verification": "Verified official/relevant source"
+      },
+      {
+        "date": "Source-backed public signal",
+        "headline": "Devyani says it is India's largest franchisee for Yum Brands and operates KFC, Pizza Hut and Costa Coffee",
+        "signal": "This supports the multi-brand sales-intelligence angle.",
+        "source_name": "Official corporate profile",
+        "source_url": "https://dil-rjcorp.com/corporate-profile/",
+        "verification": "Verified official/relevant source"
+      },
+      {
+        "date": "Source-backed public signal",
+        "headline": "FY2024-25 annual report states DIL crossed 2,000 stores and added KFC, Pizza Hut and Costa Coffee outlets",
+        "signal": "This gives a source-backed expansion trigger for the sales rep.",
+        "source_name": "Annual Report 2024-25 PDF",
+        "source_url": "https://dil-rjcorp.com/wp-content/uploads/2025/07/annual-report-2024-25.pdf",
+        "verification": "Verified official/relevant source"
+      }
+    ],
+    "social": [
+      {
+        "platform": "Official corporate profile",
+        "post": "Public brand portfolio and store-count context is available.",
+        "sentiment": "Verified official source",
+        "engagement": 100,
+        "source_url": "https://dil-rjcorp.com/corporate-profile/",
+        "verification": "Verified official source"
+      },
+      {
+        "platform": "Official annual report",
+        "post": "Expansion and financial context can be directly evidenced.",
+        "sentiment": "Verified official source",
+        "engagement": 100,
+        "source_url": "https://dil-rjcorp.com/wp-content/uploads/2025/07/annual-report-2024-25.pdf",
+        "verification": "Verified official source"
+      },
+      {
+        "platform": "Official Pizza Hut brand page",
+        "post": "Brand-specific information can be used for account segmentation.",
+        "sentiment": "Verified official source",
+        "engagement": 100,
+        "source_url": "https://dil-rjcorp.com/brands-pizzahut/",
+        "verification": "Verified official source"
+      }
+    ],
+    "products_to_position": [
+      "Multi-brand account intelligence",
+      "Margin and demand risk alerts",
+      "Brand-level meeting brief generator"
+    ],
+    "operational_signals": {
+      "sales_trend": [
+        {
+          "period": "W-3",
+          "revenue_lakhs": 54.0,
+          "orders": 5150
+        },
+        {
+          "period": "W-2",
+          "revenue_lakhs": 58.5,
+          "orders": 5520
+        },
+        {
+          "period": "W-1",
+          "revenue_lakhs": 61.2,
+          "orders": 5790
+        },
+        {
+          "period": "Current",
+          "revenue_lakhs": 63.4,
+          "orders": 6010
+        }
+      ],
+      "inventory_risks": [
+        {
+          "item": "Chicken marinade",
+          "outlet": "Demo KFC NCR cluster",
+          "hours_left": 2.2,
+          "severity": "High"
+        },
+        {
+          "item": "Pizza cheese",
+          "outlet": "Demo Pizza Hut Pune cluster",
+          "hours_left": 3.8,
+          "severity": "High"
+        },
+        {
+          "item": "Coffee cups",
+          "outlet": "Demo Costa Bengaluru cluster",
+          "hours_left": 6.0,
+          "severity": "Medium"
+        }
+      ],
+      "menu_performance": [
+        {
+          "item": "Chicken Bucket",
+          "sales": 880,
+          "margin_pct": 33
+        },
+        {
+          "item": "Pizza Combo",
+          "sales": 620,
+          "margin_pct": 31
+        },
+        {
+          "item": "Coffee Beverage",
+          "sales": 410,
+          "margin_pct": 48
+        }
+      ],
+      "outlet_health": [
+        {
+          "outlet": "Demo KFC NCR cluster",
+          "health_score": 78,
+          "risk": "Medium"
+        },
+        {
+          "outlet": "Demo Pizza Hut Pune cluster",
+          "health_score": 70,
+          "risk": "Medium"
+        },
+        {
+          "outlet": "Demo Costa Bengaluru cluster",
+          "health_score": 82,
+          "risk": "Low"
+        }
+      ],
+      "forecast": "Simulated forecast shows weekend spikes across chicken and pizza brands, with cafe traffic steadier.",
+      "review_theme": "Representative themes: brand-specific service consistency and delivery fulfilment variance.",
+      "competitor_context": "Multi-brand operators need sharper cross-brand visibility than single-brand dashboards provide."
+    }
+  },
+  {
+    "company": "Restaurant Brands Asia - Burger King India",
+    "country": "India",
+    "hq_city": "Mumbai",
+    "industry": "QSR burger chain operator",
+    "account_owner": "Kabir Menon",
+    "meeting_type": "Efficiency and growth discovery",
+    "target_regions": [
+      "Maharashtra",
+      "Delhi NCR",
+      "Karnataka",
+      "Gujarat"
+    ],
+    "primary_channels": [
+      "Dine-in",
+      "Delivery",
+      "Drive-thru",
+      "Swiggy",
+      "Zomato"
+    ],
+    "india_market_notes": "Burger King India operator with public revenue growth and continuing focus on store economics.",
+    "data_basis": "Real public company/brand context with FY25 revenue reference; outlet sales, stock, and menu signals are simulated for demo.",
+    "public_sources": [
+      {
+        "name": "NSE Annual Report 2024-25 PDF",
+        "url": "https://nsearchives.nseindia.com/annual_reports/AR_27143_RBA_2024_2025_A_28072025194810.pdf",
+        "type": "Official stock-exchange filing"
+      },
+      {
+        "name": "BSE Annual Report 2024-25 PDF",
+        "url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/7b4b10a0-d5b7-484f-a0b4-d578df094e3b.pdf",
+        "type": "Official stock-exchange filing"
+      },
+      {
+        "name": "Burger King India official website",
+        "url": "https://www.burgerking.in/",
+        "type": "Official brand source"
+      },
+      {
+        "name": "Restaurant Brands Asia LinkedIn company page",
+        "url": "https://in.linkedin.com/company/burgerkingindia",
+        "type": "Official/relevant public social source"
+      }
+    ],
+    "revenue_inr_cr": 2551,
+    "revenue_growth_pct": 4.7,
+    "gross_margin_pct": 65.0,
+    "operating_margin_pct": 5.8,
+    "cash_inr_cr": 310,
+    "debt_inr_cr": 840,
+    "market_momentum": "Revenue growth with continuing profitability focus",
+    "news": [
+      {
+        "date": "Source-backed public signal",
+        "headline": "Restaurant Brands Asia filed its FY2024-25 annual report with NSE",
+        "signal": "This is the strongest official source for financial and business context.",
+        "source_name": "NSE Annual Report 2024-25 PDF",
+        "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_27143_RBA_2024_2025_A_28072025194810.pdf",
+        "verification": "Verified official/relevant source"
+      },
+      {
+        "date": "Source-backed public signal",
+        "headline": "Restaurant Brands Asia filed its FY2024-25 annual report with BSE",
+        "signal": "Exchange filings are provable source material for the app's external signals.",
+        "source_name": "BSE Annual Report 2024-25 PDF",
+        "source_url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/7b4b10a0-d5b7-484f-a0b4-d578df094e3b.pdf",
+        "verification": "Verified official/relevant source"
+      },
+      {
+        "date": "Source-backed public signal",
+        "headline": "Burger King India has an official customer website",
+        "signal": "This supports brand/channel context but not private outlet operating data.",
+        "source_name": "Burger King India official website",
+        "source_url": "https://www.burgerking.in/",
+        "verification": "Verified official/relevant source"
+      }
+    ],
+    "social": [
+      {
+        "platform": "Official stock exchange filing",
+        "post": "Annual report can verify business context before meetings.",
+        "sentiment": "Verified official source",
+        "engagement": 100,
+        "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_27143_RBA_2024_2025_A_28072025194810.pdf",
+        "verification": "Verified official source"
+      },
+      {
+        "platform": "Official brand website",
+        "post": "Brand-facing menu/order context is public.",
+        "sentiment": "Verified official/relevant source",
+        "engagement": 90,
+        "source_url": "https://www.burgerking.in/",
+        "verification": "Verified official/relevant source"
+      },
+      {
+        "platform": "LinkedIn company page",
+        "post": "Public company/social profile can support hiring and brand-growth context.",
+        "sentiment": "Relevant public social source",
+        "engagement": 80,
+        "source_url": "https://in.linkedin.com/company/burgerkingindia",
+        "verification": "Relevant public social source"
+      }
+    ],
+    "products_to_position": [
+      "Unit economics intelligence",
+      "Offer and campaign signal brief",
+      "Outlet health monitoring"
+    ],
+    "operational_signals": {
+      "sales_trend": [
+        {
+          "period": "W-3",
+          "revenue_lakhs": 29.2,
+          "orders": 2460
+        },
+        {
+          "period": "W-2",
+          "revenue_lakhs": 30.0,
+          "orders": 2525
+        },
+        {
+          "period": "W-1",
+          "revenue_lakhs": 31.8,
+          "orders": 2680
+        },
+        {
+          "period": "Current",
+          "revenue_lakhs": 32.4,
+          "orders": 2745
+        }
+      ],
+      "inventory_risks": [
+        {
+          "item": "Whopper buns",
+          "outlet": "Demo Mumbai cluster",
+          "hours_left": 3.4,
+          "severity": "High"
+        },
+        {
+          "item": "Fries stock",
+          "outlet": "Demo NCR cluster",
+          "hours_left": 4.8,
+          "severity": "Medium"
+        },
+        {
+          "item": "Beverage cups",
+          "outlet": "Demo Ahmedabad cluster",
+          "hours_left": 7.0,
+          "severity": "Medium"
+        }
+      ],
+      "menu_performance": [
+        {
+          "item": "Whopper Meal",
+          "sales": 690,
+          "margin_pct": 35
+        },
+        {
+          "item": "Value Burger",
+          "sales": 760,
+          "margin_pct": 24
+        },
+        {
+          "item": "Fries Add-on",
+          "sales": 470,
+          "margin_pct": 43
+        }
+      ],
+      "outlet_health": [
+        {
+          "outlet": "Demo Mumbai cluster",
+          "health_score": 75,
+          "risk": "Medium"
+        },
+        {
+          "outlet": "Demo NCR cluster",
+          "health_score": 72,
+          "risk": "Medium"
+        },
+        {
+          "outlet": "Demo Ahmedabad cluster",
+          "health_score": 81,
+          "risk": "Low"
+        }
+      ],
+      "forecast": "Simulated forecast shows value-menu demand rising but margin pressure remaining visible.",
+      "review_theme": "Representative themes: value perception, speed of service, and offer clarity.",
+      "competitor_context": "Burger competition from McDonald's, Wendy's-style challengers, and local chains makes unit economics a strong angle."
+    }
+  },
+  {
+    "company": "Sapphire Foods India - KFC and Pizza Hut",
+    "country": "India",
+    "hq_city": "Mumbai",
+    "industry": "Yum! Brands QSR franchise operator",
+    "account_owner": "Meera Iyer",
+    "meeting_type": "Brand performance review",
+    "target_regions": [
+      "Maharashtra",
+      "Karnataka",
+      "Tamil Nadu",
+      "Telangana"
+    ],
+    "primary_channels": [
+      "Dine-in",
+      "Delivery",
+      "Swiggy",
+      "Zomato"
+    ],
+    "india_market_notes": "KFC and Pizza Hut operator with public store-count scale and mixed brand-level demand signals.",
+    "data_basis": "Real public company/brand context with FY25 revenue reference; outlet sales, stock, and menu signals are simulated for demo.",
+    "public_sources": [
+      {
+        "name": "Sapphire Foods investor annual reports path",
+        "url": "https://www.sapphirefoods.in/investors-relation/annual-reports",
+        "type": "Official company source"
+      },
+      {
+        "name": "NSE Sapphire FY2023-24 annual report PDF",
+        "url": "https://nsearchives.nseindia.com/annual_reports/AR_24556_SAPPHIRE_2023_2024_1707202419715.pdf",
+        "type": "Official stock-exchange filing"
+      },
+      {
+        "name": "NSE FY2025 integrated filing",
+        "url": "https://nsearchives.nseindia.com/corporate/ixbrl/INTEGRATED_FILING_INDAS_89733_08052025160050_iXBRL_WEB.html",
+        "type": "Official stock-exchange filing"
+      },
+      {
+        "name": "BSE annual-report announcement coverage",
+        "url": "https://money.rediff.com/companies/news/sapphire-foods-india-ltd/543397-1752591948000",
+        "type": "BSE-sourced relevant source"
+      }
+    ],
+    "revenue_inr_cr": 2919,
+    "revenue_growth_pct": 11.1,
+    "gross_margin_pct": 64.0,
+    "operating_margin_pct": 7.4,
+    "cash_inr_cr": 280,
+    "debt_inr_cr": 700,
+    "market_momentum": "KFC-led scale with Pizza Hut performance pressure",
+    "news": [
+      {
+        "date": "Source-backed public signal",
+        "headline": "Sapphire Foods points investors to its annual reports section",
+        "signal": "This provides an official source path for annual reports and public filings.",
+        "source_name": "Sapphire Foods investor annual reports path",
+        "source_url": "https://www.sapphirefoods.in/investors-relation/annual-reports",
+        "verification": "Verified official/relevant source"
+      },
+      {
+        "date": "Source-backed public signal",
+        "headline": "NSE filings provide official Sapphire Foods financial-result disclosures",
+        "signal": "This can be used as a source-backed public signal for sales research.",
+        "source_name": "NSE FY2025 integrated filing",
+        "source_url": "https://nsearchives.nseindia.com/corporate/ixbrl/INTEGRATED_FILING_INDAS_89733_08052025160050_iXBRL_WEB.html",
+        "verification": "Verified official/relevant source"
+      },
+      {
+        "date": "Source-backed public signal",
+        "headline": "NSE archive includes Sapphire Foods annual report filings",
+        "signal": "This supports verified account background for KFC/Pizza Hut franchise operations.",
+        "source_name": "NSE Sapphire annual report PDF",
+        "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_24556_SAPPHIRE_2023_2024_1707202419715.pdf",
+        "verification": "Verified official/relevant source"
+      }
+    ],
+    "social": [
+      {
+        "platform": "Official investor path",
+        "post": "Annual reports are the primary proof source for company context.",
+        "sentiment": "Verified official source path",
+        "engagement": 90,
+        "source_url": "https://www.sapphirefoods.in/investors-relation/annual-reports",
+        "verification": "Verified official source path"
+      },
+      {
+        "platform": "NSE filing",
+        "post": "Financial-result filing is official source-backed data.",
+        "sentiment": "Verified official source",
+        "engagement": 100,
+        "source_url": "https://nsearchives.nseindia.com/corporate/ixbrl/INTEGRATED_FILING_INDAS_89733_08052025160050_iXBRL_WEB.html",
+        "verification": "Verified official source"
+      },
+      {
+        "platform": "NSE annual report archive",
+        "post": "Annual report source supports franchise and operations context.",
+        "sentiment": "Verified official source",
+        "engagement": 100,
+        "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_24556_SAPPHIRE_2023_2024_1707202419715.pdf",
+        "verification": "Verified official source"
+      }
+    ],
+    "products_to_position": [
+      "Brand-level performance signals",
+      "KFC and Pizza Hut account brief",
+      "Outlet consistency risk alerts"
+    ],
+    "operational_signals": {
+      "sales_trend": [
+        {
+          "period": "W-3",
+          "revenue_lakhs": 38.0,
+          "orders": 3430
+        },
+        {
+          "period": "W-2",
+          "revenue_lakhs": 39.6,
+          "orders": 3580
+        },
+        {
+          "period": "W-1",
+          "revenue_lakhs": 41.0,
+          "orders": 3705
+        },
+        {
+          "period": "Current",
+          "revenue_lakhs": 42.7,
+          "orders": 3890
+        }
+      ],
+      "inventory_risks": [
+        {
+          "item": "Chicken fillet",
+          "outlet": "Demo Chennai KFC cluster",
+          "hours_left": 2.7,
+          "severity": "High"
+        },
+        {
+          "item": "Pizza dough",
+          "outlet": "Demo Bengaluru Pizza Hut cluster",
+          "hours_left": 4.1,
+          "severity": "Medium"
+        },
+        {
+          "item": "Sauce sachets",
+          "outlet": "Demo Hyderabad cluster",
+          "hours_left": 6.7,
+          "severity": "Medium"
+        }
+      ],
+      "menu_performance": [
+        {
+          "item": "KFC Bucket",
+          "sales": 790,
+          "margin_pct": 34
+        },
+        {
+          "item": "Pizza Meal",
+          "sales": 510,
+          "margin_pct": 29
+        },
+        {
+          "item": "Chicken Popcorn",
+          "sales": 610,
+          "margin_pct": 39
+        }
+      ],
+      "outlet_health": [
+        {
+          "outlet": "Demo Chennai KFC cluster",
+          "health_score": 79,
+          "risk": "Medium"
+        },
+        {
+          "outlet": "Demo Bengaluru Pizza Hut cluster",
+          "health_score": 71,
+          "risk": "Medium"
+        },
+        {
+          "outlet": "Demo Hyderabad cluster",
+          "health_score": 83,
+          "risk": "Low"
+        }
+      ],
+      "forecast": "Simulated forecast shows KFC demand resilience while pizza orders are more promotion-sensitive.",
+      "review_theme": "Representative themes: item availability, delivery speed, and mall-store queue management.",
+      "competitor_context": "Brand-level performance differences make a one-size-fits-all QSR pitch weaker."
+    }
+  },
+  {
+    "company": "Barbeque-Nation Hospitality",
+    "country": "India",
+    "hq_city": "Bengaluru",
+    "industry": "Casual dining and buffet restaurant chain",
+    "account_owner": "Tanvi Kapoor",
+    "meeting_type": "Guest experience discovery",
+    "target_regions": [
+      "Karnataka",
+      "Maharashtra",
+      "Delhi NCR",
+      "Telangana"
+    ],
+    "primary_channels": [
+      "Dine-in",
+      "Reservations",
+      "Delivery",
+      "Own website"
+    ],
+    "india_market_notes": "Casual dining chain where reservations, occupancy, guest experience, and food-cost control matter more than pure delivery speed.",
+    "data_basis": "Real public company/brand context with FY25 revenue reference; outlet sales, stock, and menu signals are simulated for demo.",
+    "public_sources": [
+      {
+        "name": "Official investor overview",
+        "url": "https://api.barbequenation.com/overview",
+        "type": "Official company source"
+      },
+      {
+        "name": "Official investor financial information",
+        "url": "https://bn.barbequenation.com/investor",
+        "type": "Official company source"
+      },
+      {
+        "name": "Annual Report FY25 PDF",
+        "url": "https://api.barbequenation.com/sites/default/files/2025-08/Barbeque%20Nation-Annual%20Report-FY25.pdf",
+        "type": "Official company source"
+      },
+      {
+        "name": "Report and presentation page",
+        "url": "https://bn.barbequenation.com/report-presentation",
+        "type": "Official company source"
+      }
+    ],
+    "revenue_inr_cr": 1249,
+    "revenue_growth_pct": 0.6,
+    "gross_margin_pct": 66.0,
+    "operating_margin_pct": 6.2,
+    "cash_inr_cr": 95,
+    "debt_inr_cr": 430,
+    "market_momentum": "Guest experience and profitability focus in casual dining",
+    "news": [
+      {
+        "date": "Source-backed public signal",
+        "headline": "Barbeque Nation investor page lists the FY25 annual report",
+        "signal": "This makes the account's public financial context source-backed.",
+        "source_name": "Official investor financial information",
+        "source_url": "https://bn.barbequenation.com/investor",
+        "verification": "Verified official/relevant source"
+      },
+      {
+        "date": "Source-backed public signal",
+        "headline": "Barbeque Nation investor overview states outlet footprint and international presence",
+        "signal": "This supports an account brief focused on casual dining, occupancy and guest experience.",
+        "source_name": "Official investor overview",
+        "source_url": "https://api.barbequenation.com/overview",
+        "verification": "Verified official/relevant source"
+      },
+      {
+        "date": "Source-backed public signal",
+        "headline": "FY25 annual report reports consolidated operating revenue and business outlook",
+        "signal": "This gives evidence for profitability and demand-normalization talking points.",
+        "source_name": "Annual Report FY25 PDF",
+        "source_url": "https://api.barbequenation.com/sites/default/files/2025-08/Barbeque%20Nation-Annual%20Report-FY25.pdf",
+        "verification": "Verified official/relevant source"
+      }
+    ],
+    "social": [
+      {
+        "platform": "Official investor overview",
+        "post": "Outlet footprint and business model are officially described.",
+        "sentiment": "Verified official source",
+        "engagement": 100,
+        "source_url": "https://api.barbequenation.com/overview",
+        "verification": "Verified official source"
+      },
+      {
+        "platform": "Official annual report",
+        "post": "Financial and business commentary can be cited.",
+        "sentiment": "Verified official source",
+        "engagement": 100,
+        "source_url": "https://api.barbequenation.com/sites/default/files/2025-08/Barbeque%20Nation-Annual%20Report-FY25.pdf",
+        "verification": "Verified official source"
+      },
+      {
+        "platform": "Official promotions page",
+        "post": "Customer-facing dining offers are public but not a substitute for internal sales data.",
+        "sentiment": "Verified official/relevant source",
+        "engagement": 80,
+        "source_url": "https://www.barbequenation.com/promotion/491/smiles-loyalty-club",
+        "verification": "Verified official/relevant source"
+      }
+    ],
+    "products_to_position": [
+      "Guest experience intelligence",
+      "Reservation and occupancy signal brief",
+      "Food-cost and outlet consistency alerts"
+    ],
+    "operational_signals": {
+      "sales_trend": [
+        {
+          "period": "W-3",
+          "revenue_lakhs": 24.4,
+          "orders": 980
+        },
+        {
+          "period": "W-2",
+          "revenue_lakhs": 25.1,
+          "orders": 1010
+        },
+        {
+          "period": "W-1",
+          "revenue_lakhs": 25.0,
+          "orders": 1002
+        },
+        {
+          "period": "Current",
+          "revenue_lakhs": 26.2,
+          "orders": 1045
+        }
+      ],
+      "inventory_risks": [
+        {
+          "item": "Marinated starters",
+          "outlet": "Demo Bengaluru dining cluster",
+          "hours_left": 3.2,
+          "severity": "High"
+        },
+        {
+          "item": "Dessert stock",
+          "outlet": "Demo Mumbai dining cluster",
+          "hours_left": 5.0,
+          "severity": "Medium"
+        },
+        {
+          "item": "Beverage mix",
+          "outlet": "Demo NCR dining cluster",
+          "hours_left": 7.5,
+          "severity": "Medium"
+        }
+      ],
+      "menu_performance": [
+        {
+          "item": "Weekend Buffet",
+          "sales": 430,
+          "margin_pct": 32
+        },
+        {
+          "item": "Celebration Package",
+          "sales": 220,
+          "margin_pct": 38
+        },
+        {
+          "item": "A-la-carte Add-on",
+          "sales": 180,
+          "margin_pct": 43
+        }
+      ],
+      "outlet_health": [
+        {
+          "outlet": "Demo Bengaluru dining cluster",
+          "health_score": 78,
+          "risk": "Medium"
+        },
+        {
+          "outlet": "Demo Mumbai dining cluster",
+          "health_score": 80,
+          "risk": "Low"
+        },
+        {
+          "outlet": "Demo NCR dining cluster",
+          "health_score": 73,
+          "risk": "Medium"
+        }
+      ],
+      "forecast": "Simulated forecast shows weekend occupancy pressure with food-cost risk on high-variety buffet days.",
+      "review_theme": "Representative themes: wait time, service consistency, and food variety.",
+      "competitor_context": "Casual dining competitors make guest-experience intelligence more relevant than pure delivery analytics."
+    }
+  },
+  {
+    "company": "Wow! Momo Foods",
+    "country": "India",
+    "hq_city": "Kolkata",
+    "industry": "Indian QSR and food-tech chain",
+    "account_owner": "Arjun Nair",
+    "meeting_type": "Growth-stage discovery",
+    "target_regions": [
+      "West Bengal",
+      "Maharashtra",
+      "Karnataka",
+      "Delhi NCR"
+    ],
+    "primary_channels": [
+      "QSR stores",
+      "Kiosks",
+      "Delivery",
+      "Swiggy",
+      "Zomato",
+      "FMCG pilots"
+    ],
+    "india_market_notes": "High-growth Indian QSR brand with momo-led store network and adjacent packaged-food ambitions.",
+    "data_basis": "Real official brand/store context; private-company financials and outlet operating signals are simulated or media-reported demo inputs unless verified by authenticated systems.",
+    "public_sources": [
+      {
+        "name": "Official Wow! Momo website",
+        "url": "https://www.wowmomo.com/",
+        "type": "Official company source"
+      },
+      {
+        "name": "Official Wow! Momo restaurant locator page",
+        "url": "https://restaurants.wowmomo.com/wow-momo-gurgaon-mgf-momo-restaurant-mg-road-gurugram-303296/Home",
+        "type": "Official store page"
+      },
+      {
+        "name": "Official Wow! Momo terms page",
+        "url": "https://www.wowmomo.com/terms-conditions/",
+        "type": "Official company source"
+      }
+    ],
+    "revenue_inr_cr": 625,
+    "revenue_growth_pct": 35.0,
+    "gross_margin_pct": 58.0,
+    "operating_margin_pct": 4.5,
+    "cash_inr_cr": 140,
+    "debt_inr_cr": 260,
+    "market_momentum": "Fast QSR growth with delivery cost and profitability pressure",
+    "news": [
+      {
+        "date": "Source-backed public signal",
+        "headline": "Wow! Momo official website describes the brand story, products and outlet expansion",
+        "signal": "This provides official brand context, though detailed financials are not publicly filed like listed companies.",
+        "source_name": "Official Wow! Momo website",
+        "source_url": "https://www.wowmomo.com/",
+        "verification": "Verified official/relevant source"
+      },
+      {
+        "date": "Source-backed public signal",
+        "headline": "Official restaurant pages show store-level public presence, menu categories and basic customer-facing information",
+        "signal": "This can prove brand footprint examples, but not internal sales or inventory.",
+        "source_name": "Official Wow! Momo restaurant locator page",
+        "source_url": "https://restaurants.wowmomo.com/wow-momo-gurgaon-mgf-momo-restaurant-mg-road-gurugram-303296/Home",
+        "verification": "Verified official/relevant source"
+      },
+      {
+        "date": "Source-backed public signal",
+        "headline": "Wow! Momo official terms page confirms the website covers group sub-brands",
+        "signal": "This supports use of official web presence as a source for brand context.",
+        "source_name": "Official Wow! Momo terms page",
+        "source_url": "https://www.wowmomo.com/terms-conditions/",
+        "verification": "Verified official/relevant source"
+      }
+    ],
+    "social": [
+      {
+        "platform": "Official website",
+        "post": "Brand story and product portfolio are public official signals.",
+        "sentiment": "Verified official source",
+        "engagement": 100,
+        "source_url": "https://www.wowmomo.com/",
+        "verification": "Verified official source"
+      },
+      {
+        "platform": "Official restaurant page",
+        "post": "A public store page can show menu, address and customer-facing information.",
+        "sentiment": "Verified official source",
+        "engagement": 100,
+        "source_url": "https://restaurants.wowmomo.com/wow-momo-gurgaon-mgf-momo-restaurant-mg-road-gurugram-303296/Home",
+        "verification": "Verified official source"
+      },
+      {
+        "platform": "Official terms page",
+        "post": "Confirms official group website and sub-brand coverage.",
+        "sentiment": "Verified official source",
+        "engagement": 100,
+        "source_url": "https://www.wowmomo.com/terms-conditions/",
+        "verification": "Verified official source"
+      }
+    ],
+    "products_to_position": [
+      "Growth-stage QSR intelligence",
+      "Delivery cost and channel signal brief",
+      "Store expansion consistency alerts"
+    ],
+    "operational_signals": {
+      "sales_trend": [
+        {
+          "period": "W-3",
+          "revenue_lakhs": 18.5,
+          "orders": 2350
+        },
+        {
+          "period": "W-2",
+          "revenue_lakhs": 20.1,
+          "orders": 2520
+        },
+        {
+          "period": "W-1",
+          "revenue_lakhs": 21.9,
+          "orders": 2760
+        },
+        {
+          "period": "Current",
+          "revenue_lakhs": 23.4,
+          "orders": 2915
+        }
+      ],
+      "inventory_risks": [
+        {
+          "item": "Momo wrappers",
+          "outlet": "Demo Kolkata cluster",
+          "hours_left": 2.8,
+          "severity": "High"
+        },
+        {
+          "item": "Sauce sachets",
+          "outlet": "Demo Mumbai cluster",
+          "hours_left": 4.6,
+          "severity": "Medium"
+        },
+        {
+          "item": "Frozen filling",
+          "outlet": "Demo Bengaluru cluster",
+          "hours_left": 5.8,
+          "severity": "Medium"
+        }
+      ],
+      "menu_performance": [
+        {
+          "item": "Steam Momo Combo",
+          "sales": 780,
+          "margin_pct": 38
+        },
+        {
+          "item": "Fried Momo Combo",
+          "sales": 690,
+          "margin_pct": 36
+        },
+        {
+          "item": "Momo Burger",
+          "sales": 300,
+          "margin_pct": 32
+        }
+      ],
+      "outlet_health": [
+        {
+          "outlet": "Demo Kolkata cluster",
+          "health_score": 84,
+          "risk": "Low"
+        },
+        {
+          "outlet": "Demo Mumbai cluster",
+          "health_score": 76,
+          "risk": "Medium"
+        },
+        {
+          "outlet": "Demo Bengaluru cluster",
+          "health_score": 79,
+          "risk": "Medium"
+        }
+      ],
+      "forecast": "Simulated forecast shows strong evening snack demand with delivery-cost sensitivity.",
+      "review_theme": "Representative themes: product variety, packaging, and value-for-money perception.",
+      "competitor_context": "Indian snack QSR competition makes store-level consistency and channel cost visibility a strong sales angle."
+    }
+  }
+]
